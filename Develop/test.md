@@ -1,7 +1,7 @@
 
   # test
   # test
-  ![Badge](https://img.shields.io/badge/License-MIT-red.svg)
+  ![License](undefined)
 ## Table of contents
 - [License](#lic)
 - [Usage](#usage)
@@ -16,16 +16,16 @@ test
 ## Usage
 undefined
 ## Installation
-teste
+test
 ## Contributions
 undefined
  
 ## Questions
-If you have further questions please email me at ere
-To view my GitHub profile go to [re](https://github.com/re)
+If you have further questions please email me at test
+To view my GitHub profile go to [test](https://github.com/test)
 ## License
 MIT
 ## Test
-ete
+test
 ## Deployed application
-re
+test
