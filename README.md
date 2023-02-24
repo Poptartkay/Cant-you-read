@@ -40,7 +40,7 @@ THEN I am taken to the corresponding section of the README
 ​
 
 - Live Site URL: 
-- GitHub Repo : 
+- GitHub Repo :  https://github.com/Poptartkay/Cant-you-read
 
 ​
 ### Built with
@@ -51,13 +51,15 @@ THEN I am taken to the corresponding section of the README
 ​
 ### What I learned
 
+I learned how to properly install packages using node.js 
+as well as how to prompt a proper Read.me 
 
 ​
 
 ​
 ### Continued development
 
-
+No current continued development as of right now. 
 ​
 ## Author
 Kay Ford
